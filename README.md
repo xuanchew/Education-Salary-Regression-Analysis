@@ -1,5 +1,5 @@
 # Education-Salary-Regression-Analysis
-This course project looks into how duration could affect career success.
+This course project looks into how education could affect career success.
 
 - [Education-Salary-Regression-Analysis](#education-salary-regression-analysis)
     - [Project Summary and Introduction](#project-summary-and-introduction)
